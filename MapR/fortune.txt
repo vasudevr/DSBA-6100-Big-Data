@@ -1,0 +1,999 @@
+wal-mart stores, inc.
+exxon mobil corporation
+chevron corporation
+phillips 66
+berkshire hathaway inc.
+apple, inc.
+general motors company
+general electric company
+valero energy corporation
+ford motor company
+at&t inc.
+fannie mae
+cvs caremark corporation
+mckesson corporation
+hewlett-packard company
+verizon communications inc.
+unitedhealth group incorporated
+j.p. morgan chase & co.
+cardinal health, inc.
+international business machines corporation
+bank of america corporation
+costco wholesale corporation
+the kroger company
+express scripts holding company
+wells fargo & company
+citigroup inc.
+archer-daniels-midland company
+the procter & gamble company
+prudential financial, inc.
+the boeing company
+freddie mac
+amerisourcebergen corp.
+marathon petroleum corporation
+the home depot, inc.
+microsoft corporation
+target corporation
+walgreen co.
+american international group, inc.
+intl fcstone inc.
+metlife, inc.
+johnson & johnson
+caterpillar inc.
+pepsico, inc.
+state farm insurance cos.
+conocophillips
+comcast corporation
+wellpoint, inc.
+pfizer inc.
+amazon.com, inc.
+united technologies corporation
+dell inc.
+the dow chemical company
+united parcel service, inc.
+intel corporation
+google inc.
+lowe's companies, inc.
+the coca-cola company
+merck & co., inc.
+lockheed martin corporation
+cisco systems, inc.
+best buy co., inc.
+safeway inc.
+fedex corporation
+enterprise products partners l.p.
+sysco corporation
+the walt disney company
+johnson controls, inc.
+the goldman sachs group, inc.
+chs inc.
+abbott laboratories
+sears holdings corporation
+e.i. du pont de nemours and company
+humana inc.
+world fuel services corporation
+hess corporation
+ingram micro inc.
+plains all american pipeline, l.p.
+honeywell international inc.
+united continental holdings, inc.
+oracle corporation
+liberty mutual holding company inc.
+hca holdings, inc.
+delta air lines, inc.
+aetna inc.
+deere & company
+supervalu inc.
+sprint nextel corporation
+mondelez international, inc.
+new york life insurance company
+american express company
+news corporation
+the allstate corporation
+tyson foods, inc.
+massachusetts mutual life insurance company
+tesoro corporation
+morgan stanley
+teachers insurance and annuity association college retiremen
+general dynamics corporation
+philip morris international inc.
+nationwide mutual insurance co.
+3m company
+directv
+cigna corporation
+murphy oil corporation
+time warner inc.
+halliburton company
+international paper company
+publix super markets, inc.
+macy's, inc.
+fluor corporation
+mcdonald's corporation
+the hartford financial services group, inc.
+rite aid corporation
+northwestern mutual life insurance company,inc.
+the tjx companies, inc.
+the travelers companies, inc.
+avnet, inc.
+aflac incorporated
+tech data corporation
+northrop grumman corporation
+amr corporation
+staples, inc.
+emerson electric co.
+raytheon company
+occidental petroleum corporation
+nike, inc.
+capital one financial corporation
+alcoa inc.
+exelon corporation
+eli lilly and company
+xerox corporation
+u.s. bancorp
+emc corporation
+time warner cable inc.
+baker hughes incorporated
+kimberly-clark corporation
+the goodyear tire & rubber company
+union pacific corporation
+united services automobile association
+manpowergroup inc.
+arrow electronics, inc
+pbf energy inc.
+hollyfrontier corporation
+national oilwell varco, inc.
+duke energy corporation
+nucor corporation
+united states steel corporation
+kohl's corporation
+qualcomm incorporated
+centurylink, inc.
+kraft foods group, inc.
+danaher corporation
+the aes corporation
+whirlpool corporation
+illinois tool works inc.
+freeport-mcmoran copper & gold inc.
+global partners lp
+bristol-myers squibb company
+altria group, inc.
+cummins inc.
+energy transfer equity, l.p.
+amgen inc.
+jabil circuit, inc.
+southwest airlines co.
+colgate-palmolive company
+the progressive corporation
+apache corporation
+paccar inc
+general mills, inc.
+the pnc financial services group, inc.
+the southern company
+medtronic, inc.
+trw automotive holdings corp.
+marathon oil corporation
+dollar general corporation
+computer sciences corporation
+autonation, inc.
+icahn enterprises l.p.
+the gap, inc.
+the bank of new york mellon corporation
+firstenergy corp.
+ppg industries, inc.
+pg&e corporation
+community health systems, inc.
+american electric power company, inc.
+cbs corporation
+lear corporation
+loews corporation
+dish network corporation
+nextera energy, inc.
+omnicom group inc.
+kellogg company
+baxter international inc.
+land o'lakes, inc.
+coventry health care, inc.
+ebay inc.
+l-3 communications holdings, inc.
+viacom inc.
+us airways group, inc.
+waste management, inc.
+yum! brands, inc.
+the chubb corporation
+penske automotive group, inc.
+toys 'r' us, inc.
+aramark corporation
+monsanto company
+anadarko petroleum corporation
+starbucks corporation
+conagra foods, inc.
+dominion resources, inc.
+parker-hannifin corporation
+edison international
+smithfield foods, inc.
+genuine parts company
+j.c. penney company, inc.
+navistar international corporation
+dean foods company
+texas instruments incorporated
+oneok, inc.
+thermo fisher scientific inc.
+ally financial inc.
+western digital corporation
+chesapeake energy corporation
+ppl corporation
+textron inc.
+consolidated edison, inc.
+nordstrom, inc.
+marsh & mclennan companies, inc.
+ecolab inc.
+marriott international, inc.
+csx corporation
+whole foods market, inc.
+eog resources, inc.
+h.j. heinz company
+lincoln national corporation
+health net, inc.
+c. h. robinson worldwide, inc.
+guardian life ins. co. of america
+suntrust banks, inc.
+saic, inc.
+huntsman corporation
+praxair, inc.
+peter kiewit sons', inc.
+las vegas sands corp.
+stanley black & decker, inc.
+the mosaic company
+norfolk southern corporation
+urs corporation
+jacobs engineering group inc.
+v.f. corporation
+bb&t corporation
+avon products, inc.
+office depot, inc.
+first data corporation
+automatic data processing, inc.
+liberty global, inc.
+unum group
+l brands, inc.
+carmax, inc.
+visa inc.
+entergy corporation
+synnex corporation
+ameriprise financial, inc.
+r.r. donnelley & sons company
+kinder morgan, inc.
+xcel energy inc.
+cdw corporation
+state street corporation
+tenet healthcare corporation
+liberty interactive corporation
+genworth financial , inc.
+agco corporation
+air products & chemicals, inc.
+newmont mining corporation
+reinsurance group of america, incorporated
+public service enterprise group incorporated
+kkr & co. l.p.
+ross stores, inc.
+the estee lauder companies inc.
+gilead sciences, inc.
+sempra energy
+the sherwin-williams company
+western refining, inc.
+devon energy corporation
+bed bath & beyond inc.
+blackrock, inc.
+family dollar stores, inc.
+hillshire brands company
+leucadia national corporation
+principal financial group, inc.
+rock-tenn company
+mgm resorts international
+hertz global holdings, inc.
+discover financial services
+w.w. grainger, inc.
+henry schein, inc.
+owens & minor, inc.
+gamestop corp.
+dte energy company
+caesars entertainment corporation
+ball corporation
+applied materials, inc.
+centene corporation
+motorola solutions, inc.
+stryker corporation
+autozone, inc.
+sonic automotive, inc.
+dover corporation
+assurant, inc.
+cameron international corporation
+davita healthcare partners inc.
+crown holdings, inc.
+reliance steel & aluminum co.
+nrg energy, inc.
+peabody energy corporation
+reynolds american inc.
+autoliv, inc.
+micron technology, inc.
+hormel foods corporation
+aecom technology corporation
+ashland inc.
+oshkosh corporation
+republic services, inc.
+eastman chemical company
+thrivent financial for lutherans
+corning incorporated
+broadcom corporation
+darden restaurants, inc.
+travelcenters of america llc
+hd supply, inc.
+spectrum group international, inc.
+becton, dickinson and company
+sealed air corporation
+kbr, inc.
+commercial metals company
+masco corporation
+universal health services, inc.
+campbell soup company
+coca-cola enterprises, inc.
+charter communications, inc.
+quest diagnostics incorporated
+the williams companies, inc.
+group 1 automotive, inc.
+centerpoint energy, inc.
+wellcare health plans, inc.
+dollar tree, inc.
+the pantry, inc.
+mastercard incorporated
+tenneco inc.
+avis budget group, inc.
+terex corporation
+cognizant technology solutions corporation
+fidelity national financial, inc.
+steel dynamics, inc.
+precision castparts corp.
+dana holding corporation
+boston scientific corporation
+borgwarner inc.
+visteon corporation
+barnes & noble, inc.
+fifth third bancorp
+franklin resources, inc.
+weyerhaeuser company
+owens-illinois, inc.
+alpha natural resources, inc.
+the interpublic group of companies, inc.
+officemax incorporated
+core-mark holding company, inc.
+pacific life
+ralph lauren corporation
+agilent technologies, inc.
+dole food company, inc.
+ameren corporation
+mylan inc.
+avery dennison corporation
+health management associates, inc.
+petsmart, inc.
+dillard's, inc.
+symantec corporation
+huntington ingalls industries, inc.
+enbridge energy partners, l.p.
+cablevision systems corporation
+jarden corporation
+the hershey company
+wesco international, inc.
+ingredion incorporated
+cbre group, inc.
+ugi corporation
+nustar energy l.p.
+the mcgraw-hill companies, inc.
+vanguard health systems, inc.
+casey's general stores, inc.
+american family ins. group
+mutual of omaha insurance company
+mattel, inc.
+celanese corporation
+quanta services, inc.
+level 3 communications, inc.
+emcor group, inc.
+starwood hotels & resorts worldwide, inc.
+regions financial corporation
+northeast utilities
+rockwell automation, inc.
+ryder system, inc.
+anixter international inc.
+cms energy corporation
+cc media holdings, inc.
+netapp, inc.
+advance auto parts, inc.
+kindred healthcare, inc.
+seaboard corporation
+o'reilly automotive, inc.
+foot locker, inc.
+windstream corporation
+ch2m hill companies, ltd.
+omnicare, inc.
+fmc technologies, inc.
+slm corporation
+cf industries holdings, inc.
+sanmina
+nii holdings, inc.
+pvh corp.
+molina healthcare, inc.
+cliffs natural resources inc.
+general cable corporation
+the shaw group inc.
+dr pepper snapple group, inc.
+expeditors international of washington, inc.
+harris corporation
+ak steel holding corporation
+spx corporation
+actavis, inc.
+newell rubbermaid inc.
+fidelity national information services, inc.
+targa resources corp.
+booz allen hamilton holding corp.
+dick's sporting goods, inc.
+w.r. berkley corporation
+live nation entertainment, inc.
+allergan, inc.
+ncr corporation
+mohawk industries, inc.
+auto-owners insurance group
+laboratory corporation of america holdings
+the western union company
+joy global inc.
+energy future holdings corp.
+meadwestvaco corporation
+harley-davidson, inc.
+con-way inc.
+mrc global inc.
+the j.m. smucker company
+exelis inc.
+biogen idec inc.
+erie insurance group
+celgene corporation
+st. jude medical, inc.
+domtar corporation
+calpine corporation
+susser holdings corporation
+the clorox company
+kelly services, inc.
+consol energy inc.
+advanced micro devices, inc.
+graybar electric company, inc.
+big lots, inc.
+gannett co., inc.
+telephone and data systems, inc.
+host hotels & resorts, inc.
+insight enterprises, inc.
+western & southern mutual holding company
+the andersons, inc.
+priceline.com incorporated
+united natural foods, inc.
+spectra energy corp
+owens corning
+avaya inc.
+wynn resorts, limited
+bemis company, inc.
+nisource inc.
+metropcs communications, inc.
+facebook, inc.
+pepco holdings, inc.
+united stationers inc.
+american financial group, inc.
+j.b. hunt transport services, inc.
+sandisk corporation
+the charles schwab corporation
+pitney bowes inc.
+allegheny technologies incorporated
+the jones financial companies,l.l.l.p.
+frontier communications corporation
+the timken company
+yahoo! inc.
+jetblue airways corporation
+old republic international corporation
+simon property group, inc.
+yrc worldwide inc.
+ca, inc.
+nash-finch company
+pultegroup, inc.
+sonoco products company
+berry plastics group, inc.
+coach, inc.
+momentive specialty chemicals inc.
+asbury automotive group, inc.
+alleghany corporation
+flowserve corporation
+airgas, inc.
+keycorp
+rockwell collins, inc.
+realogy holdings corporation
+tractor supply company
+calumet specialty products partners, l.p.
+alaska air group, inc.
+lorillard, inc.
+ralcorp holdings, inc.
+hanesbrands inc.
+alliant techsystems inc.
+levi strauss & co.
+m&t bank corporation
+the hanover insurance group, inc.
+forest laboratories, inc.
+superior energy services, inc.
+energizer holdings, inc.
+harris teeter supermarkets, inc.
+the first american financial corporation
+wyndham worldwide corporation
+abercrombie & fitch co.
+resolute forest products inc.
+discovery communications, inc.
+fiserv, inc.
+harbinger group inc.
+zimmer holdings, inc.
+noble energy, inc.
+meritor inc.
+oil states international, inc.
+aleris corporation
+michaels stores, inc.
+adobe systems incorporated
+factory mutual insurance company
+juniper networks, inc.
+harman international industries, incorporated
+buckeye partners, l.p.
+d.r. horton, inc.
+northern tier energy lp
+neiman marcus, inc.
+cno financial group, inc.
+graphic packaging holding company
+sungard data systems inc.
+abm industries incorporated
+amphenol corporation
+nvidia corporation
+apollo group, inc.
+greif
+radioshack corporation
+wisconsin energy corporation
+intuit inc.
+integrys energy group, inc.
+cooper tire & rubber company
+northern trust corporation
+eastman kodak company
+scana corporation
+arch coal, inc.
+electronic arts inc.
+vwr funding, inc.
+quad/graphics, inc.
+lkq corporation
+united rentals, inc.
+tutor perini corporation
+robert half international inc.
+cincinnati financial corporation
+lennar corporation
+cintas corporation
+hospira, inc.
+hasbro, inc.
+burlington coat factory investments holdings, inc.
+mdu resources group, inc.
+genesis energy, l.p.
+the washington post company
+delta tucker holdings, inc.
+williams-sonoma, inc.
+expedia, inc.
+the valspar corporation
+the blackstone group l.p.
+lifepoint hospitals, inc.
+nexeo solutions holdings, llc
+mccormick & company, incorporated
+cit group inc.
+bloomin' brands, inc.
+the manitowoc company, inc.
+belk, inc.
+hyatt hotels corporation
+the brink's company
+trinity industries, inc.
+jones lang lasalle incorporated
+agl resources inc.
+molson coors brewing company
+colfax corporation
+mead johnson nutrition company
+raymond james financial, inc.
+roundy's, inc.
+stater bros. holdings inc.
+jefferies group, inc.
+green mountain coffee roasters
+mastec, inc.
+life technologies corporation
+the jones group inc.
+lexmark international, inc.
+unified grocers, inc.
+tiffany & co.
+xylem inc.
+rpm international inc.
+caci international inc.
+brunswick corporation
+nyse euronext
+fmc corporation
+team health holdings, inc.
+leggett & platt, incorporated
+ingles markets, incorporated
+unisys corporation
+carefusion corporation
+del monte corporation
+oge energy corp.
+lpl financial holdings inc.
+alliance data systems corporation
+carlisle companies incorporated
+protective life corporation
+netflix, inc.
+fortune brands home & security, inc.
+torchmark corporation
+silgan holdings inc.
+westlake chemical corporation
+atmos energy corporation
+systemax inc.
+patterson companies, inc.
+skywest, inc.
+sally beauty holdings, inc.
+securian financial group, inc.
+rockwood holdings, inc.
+united refining company
+american eagle outfitters, inc.
+swift transportation company
+molex incorporated
+green plains renewable energy, inc.
+phh corporation
+american tire distributors holdings, inc.
+watsco, inc.
+towers watson & co.
+triumph group, inc.
+adams resources & energy, inc.
+sirius xm radio inc.
+lithia motors, inc.
+country financial
+alliant energy corporation
+hawaiian electric industries, inc.
+first solar, inc.
+lennox international inc.
+ascena retail group, inc.
+cabot corporation
+schnitzer steel industries, inc.
+ametek, inc.
+usg corporation
+axiall corporation
+h&r block, inc.
+hsn, inc.
+pioneer natural resources company
+pinnacle west capital corporation
+emergency medical services corporation
+the babcock & wilcox company
+adt corporation
+wpx energy, inc.
+puget energy, inc.
+polaris industries inc.
+magellan health services, inc.
+apollo global management, llc
+cytec industries inc.
+the servicemaster company
+nvr, inc.
+perrigo company
+kla-tencor corporation
+regal beloit corporation
+w.r. grace & co.
+helmerich & payne, inc.
+saks incorporated
+leap wireless international, inc.
+fastenal company
+hub group, inc.
+echostar corporation
+the nasdaq omx group, inc.
+cabela's incorporated
+teco energy, inc.
+cmfg life insurance company
+snap-on incorporated
+rush enterprises, inc.
+b/e aerospace, inc.
+thor industries, inc.
+exide technologies
+rent-a-center, inc.
+chiquita brands international, inc.
+nbty, inc.
+salesforce.com, inc.
+flowers foods, inc.
+harsco corporation
+hubbell incorporated
+valmont industries, inc.
+huntington bancshares incorporated
+endo health solutions inc.
+t. rowe price group, inc.
+chemtura corporation
+scansource, inc.
+iron mountain incorporated
+markel corporation
+roper industries, inc.
+polyone corporation
+diebold, incorporated
+american national insurance company
+nv energy, inc.
+the bon-ton stores, inc.
+the carlyle group l.p.
+c.r. bard, inc.
+select medical holdings corporation
+american axle & manufacturing holdings, inc.
+dentsply international inc.
+church & dwight co., inc.
+cme group inc.
+vornado realty trust
+pall corporation
+penn national gaming, inc.
+stancorp financial group, inc.
+american water works company, inc.
+on semiconductor corporation
+cooper-standard holdings inc.
+american tower corporation
+fossil, inc.
+exterran holdings, inc.
+lincoln electric holdings, inc.
+iasis healthcare llc
+the scotts miracle-gro company
+packaging corporation of america
+lvb acquisition, inc.
+regal entertainment group
+international flavors & fragrances inc.
+brinker international, inc.
+alere inc.
+republic airways holdings inc.
+varian medical systems, inc.
+iac/interactivecorp
+urban outfitters, inc.
+landstar system, inc.
+mercury general corporation
+oceaneering international, inc.
+warner music group corp.
+boise cascade company
+brookdale senior living inc.
+education management corporation
+amkor technology, inc.
+steelcase inc.
+albemarle corporation
+dresser-rand group inc.
+kennametal inc.
+armstrong world industries, inc.
+chipotle mexican grill, inc.
+sandridge energy, inc.
+moody's corporation
+patterson-uti energy, inc.
+brown-forman corporation
+southwestern energy company
+tetra tech, inc.
+weis markets, inc.
+analog devices, inc.
+comerica incorporated
+annaly capital management, inc.
+cerner corporation
+lam research corporation
+teradata corporation
+legg mason, inc.
+guess?, inc.
+constellation brands, inc.
+td ameritrade holding corporation
+west corporation
+medical mutual of ohio
+spartan stores, inc.
+sigma-aldrich corporation
+genesco inc.
+crane co.
+amc entertainment inc.
+brown shoe company, inc.
+citrix systems, inc.
+tupperware brands corporation
+mantech international corporation
+chico's fas, inc.
+cracker barrel old country store, inc.
+general growth properties, inc.
+dst systems, inc.
+continental resources, inc.
+vulcan materials company
+newfield exploration company
+plains exploration & production company
+boise inc.
+worthington industries, inc.
+sentry insurance group
+memc electronic materials, inc.
+tms international corp.
+hcc insurance holdings, inc.
+arthur j. gallagher & co.
+ventas, inc.
+lsi corporation
+the wendy's company
+amerco
+hhgregg, inc.
+donaldson company, inc.
+the men's wearhouse, inc.
+boyd gaming corporation
+pinnacle foods finance llc
+wabco holdings inc.
+kemper corporation
+cinemark holdings, inc.
+moog inc.
+hyster-yale materials handling, inc.
+benchmark electronics, inc.
+beam inc.
+zions bancorporation
+denbury resources inc.
+universal corporation
+univision communications inc.
+apria healthcare group inc.
+mbia inc.
+crown castle international corp.
+gnc holdings, inc.
+wgl holdings, inc.
+triple-s management corporation
+sunpower corporation
+service corporation international
+maxim integrated products, inc.
+walter energy, inc.
+tower international, inc.
+westinghouse air brake technologies corporation
+aeropostale, inc.
+sanderson farms, inc.
+carter's, inc.
+ann inc.
+applied industrial technologies, inc.
+covance inc.
+momentive performance materials inc.
+msc industrial direct co., inc.
+gardner denver, inc.
+qep resources, inc.
+mettler-toledo international inc.
+ferrellgas partners, l.p.
+groupon, inc.
+aptargroup, inc.
+autodesk, inc.
+great plains energy incorporated
+scripps networks interactive, inc.
+plexus corp.
+broadridge financial solutions, inc.
+enersys
+regis corporation
+westar energy, inc.
+itt corporation
+dsw inc.
+new jersey resources corporation
+xilinx, inc.
+kansas city southern
+brocade communications systems, inc.
+vectren corporation
+vishay intertechnology, inc.
+paychex, inc.
+j. crew group, inc.
+newmarket corporation
+aaron's, inc.
+ulta salon, cosmetics & fragrance, inc.
+valhi, inc.
+popular, inc.
+global payments inc.
+coinstar, inc.
+nortek, inc.
+equity residential
+aol inc.
+mueller industries, inc.
+clean harbors, inc.
+e*trade financial corporation
+olin corporation
+treehouse foods, inc.
+intuitive surgical, inc
+itron, inc.
+universal american corp.
+whiting petroleum corporation
+bmc software, inc.
+nu skin enterprises, inc.
+healthsouth corporation
+valassis communications, inc.
+jack in the box inc.
+equifax inc.
+pc connection, inc.
+insperity, inc.
+alliance one international, inc.
+international game technology
+scholastic corporation
+express, inc.
+willbros group, inc.
+allison transmission holdings, inc.
+guitar center holdings, inc.
+mutual of america life insurance company
+convergys corporation
+panera bread company
+teledyne technologies incorporated
+knights of columbus
+seacor holdings inc.
+perkinelmer, inc.
+kirby corporation
+old dominion freight line, inc.
+curtiss-wright corporation
+a. schulman, inc.
+pss world medical, inc.
+symetra financial corp.
+devry inc.
+prologis, inc.
+new york community bancorp, inc.
+granite construction incorporated
+mwi veterinary supply, inc.
+the new york times company
+lender processing services, inc.
+bio-rad laboratories, inc.
+briggs & stratton corporation
+arkansas best corporation
+the pep boys ' manny, moe & jack
+aar corp.
+monster beverage corporation
+edgen group inc.
+universal forest products, inc.
+pricesmart, inc.
+beacon roofing supply, inc.
+trimble navigation limited
+martin marietta materials, inc.
+werner enterprises, inc.
+key energy services, inc.
+affinia group intermediate holdings inc.
+alliance holdings gp, l.p.
+carpenter technology corporation
+heartland payment systems, inc.
+titan machinery inc.
+quiksilver, inc.
+inergy, l.p.
+hni corporation
+hologic, inc.
+liberty media corporation
+esterline technologies corporation
+metals usa holdings corp.
+rexnord corporation
+burger king worldwide, inc.
+kar auction services, inc.
+hawaiian holdings, inc.
+h.b. fuller company
+the toro company
+fred's, inc.
+idex corporation
+pool corporation
+rpc, inc.
+concho resources inc.
+a.o. smith corporation
+belden inc.
+acuity brands, inc.
+southwest gas corporation
+equinix, inc.
+patriot coal corporation
+tower group, inc.
+usec inc.
+suncoke energy, inc.
+hcp, inc.
+stericycle, inc.
+stewart information services corporation
+bluelinx holdings inc.
+health care reit, inc.
+edwards lifesciences corporation
+amica mutual insurance co.
+lehigh gas partners lp
+toll brothers, inc.
+boston properties, inc.
+clearwater paper corporation
+total system services, inc.
+zale corporation
+verifone systems, inc.
+woodward, inc.
+amtrust financial services, inc.
+vantiv, inc.
+griffon corp.
+michael foods group, inc
+penn mutual life insurance co.
+waters corporation
+under armour, inc.
+ciena corporation
+pharmerica corporation
+weight watchers international, inc.
+public storage
+titan international, inc.
+mednax, inc.
+the children's place retail stores, inc.
